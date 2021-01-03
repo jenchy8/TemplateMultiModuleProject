@@ -1,4 +1,4 @@
-server.servlet.context-path: /templateservice
+server.servlet.context-path: /templatemultiservice
 management.endpoints.web:
   base-path: /manage
   exposure.include: "*"
